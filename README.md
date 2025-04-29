@@ -34,7 +34,6 @@ mais **je ne travaille pas professionnellement dans la programmation**.
 - Un projet d’analyse statistique sur les traitements vétérinaires
 - La création d’un site web personnel
 - Une application de cartes mentales pour le collège
-- Un programme pour apprendre le codage progressivement
 
 ---
 
@@ -60,7 +59,6 @@ but **I do not work professionally as a developer**.
 - A data analysis project on veterinary treatments
 - A personal website project
 - A mobile app for school mind maps (middle school level)
-- A program to progressively learn coding
 
 ---
 
