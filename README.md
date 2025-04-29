@@ -63,3 +63,29 @@ but **I do not work professionally as a developer**.
 - A program to progressively learn coding
 
 ---
+
+## 📚 Mes projets en détail
+
+🔹 [analyse-produits-veterinaires](https://github.com/Clemennt/analyse-produits-veterinaires)  
+Analyse statistique complète sur l’utilisation des produits vétérinaires (antiparasitaires, vaccins, etc.) avec visualisations et rapport.
+
+🔹 site-web-personnel (à venir)  
+Un site web vitrine personnel pour présenter mes projets, visualisations et expériences.
+
+🔹 app-cartes-mentales (à venir)  
+Une application mobile destinée aux collégiens pour synthétiser les cours avec des cartes mentales interactives.
+
+---
+
+## 📚 Project details
+
+🔹 [analyse-produits-veterinaires](https://github.com/Clemennt/analyse-produits-veterinaires)  
+A full statistical analysis of veterinary product usage (antiparasitics, vaccines, etc.), with visualizations and report.
+
+🔹 site-web-personnel (coming soon)  
+A personal showcase website to present my data projects, visualizations and tools.
+
+🔹 app-cartes-mentales (coming soon)  
+A mobile app to help middle school students organize their lessons using interactive mind maps.
+
+---
