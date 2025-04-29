@@ -22,7 +22,7 @@ Je suis passionné par :
 
 🎯 Objectif : Créer des projets utiles, clairs, et visuellement engageants !
 
-📚 Actuellement, je développe également un programme personnel pour apprendre le codage de manière progressive.
+📚 Actuellement, je mets en place un programme personnel pour apprendre la programmation étape par étape.
 
 💡 Toutes mes activités sur GitHub sont réalisées sur mon temps libre.  
 J'ai suivi des études en **biostatistiques**, **analyse de données** et **bases de données**,  
@@ -48,7 +48,7 @@ I'm passionate about:
 
 🎯 Goal: To build clear, useful and visually engaging projects!
 
-📚 I am also working on a personal program to progressively learn coding.
+📚 I am currently setting up a personal program to lear coding step by step.
 
 💡 All my activities on GitHub are done during my free time.  
 I have studied **biostatistics**, **data analysis**, and **database management**,  
