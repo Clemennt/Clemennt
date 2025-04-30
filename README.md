@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
 </p>
 
-
 # 👋 Bienvenue sur mon profil GitHub !
 
 Je suis passionné par :
@@ -24,7 +23,7 @@ Je suis passionné par :
 
 🎯 Objectif : Créer des projets utiles, clairs, et visuellement engageants !
 
-📚 Actuellement, je mets en place un programme personnel pour apprendre la programmation étape par étape.
+📚 Actuellement, je mets en place un programme personnel pour apprendre le codage étape par étape.
 
 💡 Toutes mes activités sur GitHub sont réalisées sur mon temps libre.  
 J'ai suivi des études en **biostatistiques**, **analyse de données** et **bases de données**,  
@@ -32,7 +31,7 @@ mais **je ne travaille pas professionnellement dans la programmation**.
 
 📬 N’hésite pas à consulter mes dépôts pour en voir plus !
 
-## 🔭 Actuellement je travaille sur :
+## 🚧 En cours | Currently working on:
 - Un projet d’analyse statistique sur les traitements vétérinaires
 - La création d’un site web personnel
 - Une application de cartes mentales pour le collège
@@ -49,7 +48,7 @@ I'm passionate about:
 
 🎯 Goal: To build clear, useful and visually engaging projects!
 
-📚 I am currently setting up a personal program to lear coding step by step.
+📚 I am currently setting up a personal program to learn coding step by step.
 
 💡 All my activities on GitHub are done during my free time.  
 I have studied **biostatistics**, **data analysis**, and **database management**,  
@@ -57,14 +56,14 @@ but **I do not work professionally as a developer**.
 
 📬 Feel free to check out my repositories!
 
-## 🔭 I'm currently working on:
+## 🚧 Currently working on:
 - A data analysis project on veterinary treatments
 - A personal website project
 - A mobile app for school mind maps (middle school level)
 
 ---
 
-## 📚 Mes projets en détail
+## 🧠 Projets personnels | Personal Projects
 
 🔹 [analyse-produits-veterinaires](https://github.com/Clemennt/analyse-produits-veterinaires)  
 Analyse statistique complète sur l’utilisation des produits vétérinaires (antiparasitaires, vaccins, etc.) avec visualisations et rapport.
@@ -77,7 +76,7 @@ Une application mobile destinée aux collégiens pour synthétiser les cours ave
 
 ---
 
-## 📚 Project details
+## 🧠 Personal Projects | Projets personnels
 
 🔹 [analyse-produits-veterinaires](https://github.com/Clemennt/analyse-produits-veterinaires)  
 A full statistical analysis of veterinary product usage (antiparasitics, vaccines, etc.), with visualizations and report.
