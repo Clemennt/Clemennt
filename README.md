@@ -68,10 +68,10 @@ but **I do not work professionally as a developer**.
 🔹 [analyse-produits-veterinaires](https://github.com/Clemennt/analyse-produits-veterinaires)  
 Analyse statistique complète sur l’utilisation des produits vétérinaires (antiparasitaires, vaccins, etc.) avec visualisations et rapport.
 
-🔹 site-web-personnel (à venir)  
+🔹 [site-web-personnel](https://github.com/Clemennt/site-web-personnel)  
 Un site web vitrine personnel pour présenter mes projets, visualisations et expériences.
 
-🔹 app-cartes-mentales (à venir)  
+🔹 [app-cartes-mentales](https://github.com/Clemennt/app-cartes-mentales)  
 Une application mobile destinée aux collégiens pour synthétiser les cours avec des cartes mentales interactives.
 
 ---
@@ -81,10 +81,10 @@ Une application mobile destinée aux collégiens pour synthétiser les cours ave
 🔹 [analyse-produits-veterinaires](https://github.com/Clemennt/analyse-produits-veterinaires)  
 A full statistical analysis of veterinary product usage (antiparasitics, vaccines, etc.), with visualizations and report.
 
-🔹 site-web-personnel (coming soon)  
+🔹 [site-web-personnel](https://github.com/Clemennt/site-web-personnel)  
 A personal showcase website to present my data projects, visualizations and tools.
 
-🔹 app-cartes-mentales (coming soon)  
+🔹 [app-cartes-mentales](https://github.com/Clemennt/app-cartes-mentales)  
 A mobile app to help middle school students organize their lessons using interactive mind maps.
 
 ---
