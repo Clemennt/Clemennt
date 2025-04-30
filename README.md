@@ -31,7 +31,7 @@ mais **je ne travaille pas professionnellement dans la programmation**.
 
 📬 N’hésite pas à consulter mes dépôts pour en voir plus !
 
-## 🚧 En cours | Currently working on:
+## 🚧 En cours :
 - Un projet d’analyse statistique sur les traitements vétérinaires
 - La création d’un site web personnel
 - Une application de cartes mentales pour le collège
@@ -63,7 +63,7 @@ but **I do not work professionally as a developer**.
 
 ---
 
-## 🧠 Projets personnels | Personal Projects
+## 🧠 Projets personnels | 
 
 🔹 [analyse-produits-veterinaires](https://github.com/Clemennt/analyse-produits-veterinaires)  
 Analyse statistique complète sur l’utilisation des produits vétérinaires (antiparasitaires, vaccins, etc.) avec visualisations et rapport.
@@ -76,7 +76,7 @@ Une application mobile destinée aux collégiens pour synthétiser les cours ave
 
 ---
 
-## 🧠 Personal Projects | Projets personnels
+## 🧠 Personal Projects | 
 
 🔹 [analyse-produits-veterinaires](https://github.com/Clemennt/analyse-produits-veterinaires)  
 A full statistical analysis of veterinary product usage (antiparasitics, vaccines, etc.), with visualizations and report.
